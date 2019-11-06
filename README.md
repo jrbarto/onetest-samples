@@ -1,2 +1,2 @@
 # onetest-server-sample
-Sample repo to work with OneTest Server
+Sample repo to work with OneTest Server.
